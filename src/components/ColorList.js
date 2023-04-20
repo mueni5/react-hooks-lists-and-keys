@@ -1,5 +1,3 @@
-import React from "react";
-
 function ColorList() {
   const colors = [
     "firebrick",
@@ -22,5 +20,4 @@ function ColorList() {
     </div>
   );
 }
-
-export default ColorList;
+    export default ColorList
